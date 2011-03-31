@@ -1,0 +1,84 @@
+How not to promote your Startup Accelerator on Hacker News
+==========================================================
+
+There was a thread on Hacker News yesterday that absolutely fascinated me. The
+thread shows a back and forth between John Hathorne of the MassChallenge and
+Paul Graham.
+
+First off, I have a lot of respect for both John and Paul. John has done some
+amazing things getting the MassChallenge off the ground and funding 18 startups
+and giving a home to many more. I think Paul's merits need no explaining. 
+
+We were a MassChallenge finalist and a Y Combinator company, so this was
+equivalent to being a 13 year old girl and watching mommy and daddy fight
+center stage at a Justin Beiber concert.
+
+It all started when the MassChallenge decided that it wanted to get a little
+press on Hacker News hoping to draw in some applications for it's upcoming
+deadline. The blog `post 
+<http://www.startupamericapartnership.org/blog/enter-masschallenge-competition>`_ 
+was fine. It was on startupamericapartnership.org, had
+a glowing picture of the Relay Rides team excepting their $50k check, but it
+had this superficial tone that didn't make it sound authentic. Nonetheless,
+with their awesome post in hand they set out into the Hacker News water and
+things got ugly.
+
+You can read all the comments `here
+<http://news.ycombinator.com/item?id=2388099>`_ and the MassChallenge even
+`asked <http://twitter.com/#!/masschallenge/status/53147207356006400> for
+upvotes via their Twitter account. In the end I blame this all on rhizome.
+The `post <http://news.ycombinator.com/item?id=2388444>` was simple enough:
+
+  It's still creepy.
+
+It however elicited a response from John Harthorne the CEO and founder of the
+MassChallange. He took a snarky comment from a random HN user and turned around
+and punched Y Combinator in the face with it:
+
+  Is it as creepy as taking 6% equity from a company that is still young and
+  strategically weak?
+  
+  To me that is molestation.
+
+So obviously PG had to defend his honor:
+
+  I wouldn't be surprised to see this sort of comment from a random troll on HN,
+  but I'm surprised to see it from one of the organizers of the program.
+  
+  It suggests that as well as having rather bad judgment, you don't understand the
+  math of equity. A "free" alternative is no bargain if you end up net worse off.
+  
+  http://paulgraham.com/equity.html
+
+John rebuts with math and economics:
+
+  But if we offer a free alternative with equivalent benefits, then 6% is way
+  overpriced. And that's what we do.
+  
+  Paul omits a discussion of opportunity cost. Sure, buying a coke for 50 cents
+  is great ... but getting it for free is much better.
+  
+  Remember that at 6.4% improvement, you end up even with ycombinator. At 6.4%
+  improvement with MassChallenge, you end up 6.4% ahead.
+
+and staunch ends it:
+
+  Do yourself a favor: wait until you have a track record and reputation that's
+  at least 5% the quality of YC's before you start bragging about how much
+  better you are.
+
+Now it's very clear that these two have very different opinions on how a
+startup should be funded. Totally fine, but to the degree of using the word
+`molestation` to describe another's methods is a little much.
+
+There is a very clear difference between these two programs, Y Combinator is a
+business and it's goal is to make money. The MassChallenge is a non-profit and
+it's goal is to 'Foster Innovation'. They both have the same goal, but at this
+point you would think it's the Sea Shepherd Conservation Society vs Japanese
+Whalers. (Yes, that was a Whale Wars reference)
+
+I'm not going to comment on the merits of either program. We have enjoyed the
+benefits of both. I'm just amazed by this whole back and forth. John's
+comments were down voted to the point where you can barely read them, where
+PG's post garnered 10 points.It just shows that if you are going to swim in 
+someone else's pond that you need to play nice.
